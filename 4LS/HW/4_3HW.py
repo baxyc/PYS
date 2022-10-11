@@ -15,3 +15,6 @@ list_num = [ 5, 7, 3, 3, 2, 3, 8, 1, 154, 245, 8, 4, 2, 0]
 print(list_num)
 new_list = get_uniq_nums(list_num)
 print(new_list)
+
+
+
